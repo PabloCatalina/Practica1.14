@@ -8,6 +8,10 @@ h1{
     color: rgb(95, 11, 11);
 }
 
+h2{
+    color: brown;
+}
+
 a{
     /* Color de los nav */
     color: brown;
@@ -30,7 +34,6 @@ p{
     color: brown;
 }
 
-
 pre{
     color: brown;
     text-align: justify;
@@ -42,3 +45,14 @@ p.video{
     text-align: center;
 }
 
+li{
+    color: rgb(233, 140, 33);
+}
+
+li.negro{
+    color: black;
+}
+
+ul{
+    color: black;
+}
